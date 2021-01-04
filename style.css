@@ -1,0 +1,16 @@
+.ok{
+background-color: aquamarine;
+display:flex;
+justify-content:space-between
+}
+h1{
+    color:brown 
+}
+.anchors{
+    border:solid
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
